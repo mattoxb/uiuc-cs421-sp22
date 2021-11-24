@@ -10,7 +10,7 @@ weight: 2
 
 
 {{< callout warning >}}
-We are preparing the site for the Fall 2021 semester.  Feel free to look around, but note that not all the pages
+We are preparing the site for the Fall 2022 semester.  Feel free to look around, but note that not all the pages
 are up yet.
 {{< /callout >}}
 
