@@ -82,8 +82,10 @@ you will watch a "pre-lecture video" before class, and then during class you
 will participate in a team activity.  These activities are
 [POGIL](https://pogil.org) activities.
 
-Attendance and participation in the team activities are required.  If you wish
-to take the class remotely you will need to make arrangements with the instructor.
+Attendance and participation in the team activities are required.
+Please see [these instructions]({{< ref "/docs/getting-started/remote-students" >}}) if
+you want to take the class remotely or as a Chicago City Scholars student.
+
 
 <!-- The Student Code allows for [certain kind of absences](http://studentcode.illinois.edu/article1/part5/1-501/)
 to be excused as well. -->
