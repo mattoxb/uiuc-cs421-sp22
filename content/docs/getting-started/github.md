@@ -51,11 +51,11 @@ you use, and things you need to do once per MP.
 
 The first time you're accessing the CS 421 repository this semester, you will need to have a CS 421 repository set up for you.  This process is simple:
 
-1. Visit this [magic repository creator](https://edu.cs.illinois.edu/create-ghe-repo/cs421-sp22/)
-2. When you view your repository, **do not** follow the instructions to create a
-   README.  Instead, just note the URL -- it will be similar to
-   `https://github-dev.cs.illinois.edu/cs421-sp22/NETID`
-3. No, we don't mean to type the letters `NETID` literally.  Someone asks every semester, and now we have to have a sign.
+1. If you don't have one already, create an account at [github.com](https://github.com).
+2. Visit this [magic repository creator](https://edu.cs.illinois.edu/create-ghe-repo/sp22-cs421/)
+3. It will ask you to join the `illinois-cs-coursework` group.
+4. You will get a repository with a URL like `https://github.com/illinois-cs-coursework/sp22_cs421_NETID`, where
+   `NETID` is your actual netid.
 
 ## Workspace Setup (necessary only once per computer/directory you use)
 
@@ -64,12 +64,10 @@ The first time you're accessing the CS 421 repository this semester, you will ne
 To setup your computer to work on an MP or a lab, you will need to clone your
 repository onto your computer.
 
-*The URL of your repository will be based on your NetID and you will need to replace NETID with your NetID.*
-
 To clone your repository, run `git clone`:
 
 ``` bash
-git clone https://github-dev.cs.illinois.edu/cs421-sp22/NETID.git cs421git
+git clone https://github.com/illios-cs-coursework/sp22_cs421_NETID.git cs421git
 ```
 
 you can replace **cs421git** with whatever folder you want created.  For example, you may want to call your folder just "cs421" or "cs421work" or anything else.
@@ -88,7 +86,7 @@ cd cs421git
 To connect to the release repository, you need to add a remote:
 
 ``` bash
-git remote add release https://github-dev.cs.illinois.edu/cs421-sp22/_release.git
+git remote add release https://github-dev.cs.illinois.edu/sp22_cs421_release.git
 ```
 
 You're now all set to begin to work on an assignment! :)
@@ -135,7 +133,7 @@ branch `master`, preferring instead to call it `main` instead.  In that case, ty
 ### Verify your Submission
 
 You can always verify your "submission" by visiting
-https://github-dev.cs.illinois.edu/ and viewing the files in your repository.
+https://github.com/ and viewing the files in your repository.
 
 ## Grades
 
