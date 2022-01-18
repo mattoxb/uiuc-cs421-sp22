@@ -35,9 +35,9 @@ you to be an expert.
 There are two repositories that you'll be interacting with as part of this course:
 
 1. Your personal course repository
-2. The release repository (`_release`)
+2. The release repository (`release`)
 
-In general, we will release code to `_release` and you will merge it into your
+In general, we will release code to `release` and you will merge it into your
 repository to get the initial code.  You'll then complete the MP or lab in your
 personal repository.  While we won't use the repository for grading, it does
 make it easy for us to look at your files if you are trying to get help on
@@ -81,13 +81,15 @@ Finally, move into the directory you just cloned:
 cd cs421git
 ```
 
-### Add the `_release` repository as a remote
+### Add the `release` repository as a remote
 
 To connect to the release repository, you need to add a remote:
 
 ``` bash
-git remote add release https://github-dev.cs.illinois.edu/sp22_cs421_release.git
+git remote add release https://github-dev.cs.illinois.edu/sp22_cs421_.release.git
 ```
+
+Note the extra period.  If we don't put that there, one day some poor student will get the netid `release` and all Java will break loose.
 
 You're now all set to begin to work on an assignment! :)
 
