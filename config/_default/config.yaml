@@ -5,7 +5,7 @@
 
 title: 'CS 421 (Spring 2022)' # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Mattox Beckman'
 
 ############################
 ## LANGUAGE
@@ -22,17 +22,15 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
-    - path: github.com/mattoxb/wowchemy-shortcode-awsvideo
-    - path: github.com/mattoxb/wowchemy-shortcode-uva
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 #####
 ## awsVideo shortcode
 #####
 
 params:
-  awsPath: aws-website-cs-videos-r106h/
+  awsPath: https://aws-website-cs-videos-r106h.s3.amazonaws.com
 
 ############################
 ## ADVANCED
@@ -81,3 +79,6 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+
+refLinksErrorLevel: warning

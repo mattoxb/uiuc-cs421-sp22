@@ -1,0 +1,18 @@
+{{- define "main" -}}
+{{- partial "page_header.html" . -}}
+<div class="universal-wrapper">
+
+  <table>
+          <tr>
+                  <th>Date</th>
+                  <th>Title</ht>
+          </tr>
+  {{range sort .Site.Data.lectures "date"}}
+          {{ $path := (printf "/lectures/%s" (index . "slug")) }}
+          <tr><td> {{ dateFormat "Monday, January 2, 2006" (index . "date") }} </td>
+              <td> <a href={{$path}}>{{ index . "title" }}</a> </td>
+          </tr>
+  {{end}}
+  </table>
+</div>
+{{- end -}}

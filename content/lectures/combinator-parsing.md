@@ -12,7 +12,6 @@ links:
         display: true
       - title: Combinator Parsing Activity
         url: /videos/combinator-parsing-activity
-        display: true
   - category: Handouts
     links:
       - title: Combinator Parsing Activity (TPS Version)

@@ -1,0 +1,146 @@
+course-introduction:
+  date: 2022-01-18
+  title: Course Introduction
+  slug: course-introduction
+
+recursion:
+  date: 2022-01-20
+  title: Recursion
+  slug: recursion
+
+algebraic-data-types:
+  slug: algebraic-data-types
+  date: 2022-01-25
+  title: Algebraic Data Types
+  
+higher-order-functions:
+  slug: higher-order-functions
+  date: 2022-01-27
+  title: Higher Order Functions
+  
+interpreters-1:
+  slug: interpreters-1
+  date: 2022-02-01
+  title: Interpreters I
+  
+interpreters-2:
+  slug: interpreters-2
+  date: 2022-02-03
+  title: Interpreters II
+  
+big-step-semantics:
+  slug: big-step-semantics
+  date: 2022-02-08
+  title: Big-Step Semantics
+  
+lambda-calculus:
+  slug: lambda-calculus
+  date: 2022-02-10
+  title: Lambda Calculus
+  
+higher-order-abstract-syntax:
+  slug: higher-order-abstract-syntax
+  date: 2022-02-15
+  title: Higher Order Abstract Syntax
+
+continuation-passing-style:
+  slug: continuation-passing-style
+  date: 2022-02-17
+  title: Continuation Passing Style
+  
+type-classes:
+  slug: type-classes
+  date: 2022-02-22
+  title: Type Classes
+
+monads:
+  slug: monads
+  date: 2022-02-24
+  title: Monads
+
+state-monad:
+  slug: state-monad
+  date: 2022-03-01
+  title: State Monad
+
+grammars:
+  slug: grammars
+  date: 2022-03-03
+  title: Grammars
+  
+regular-languages:
+  slug: regular-languages
+  date: 2022-03-08
+  title: Regular Languages
+  
+ll-parsing:
+  slug: ll-parsing
+  date: 2022-03-10
+  title: LL Parsing
+  
+lr-parsing:
+  slug: lr-parsing
+  date: 2022-03-22
+  title: LR Parsing
+  
+combinator-parsing:
+  slug: combinator-parsing
+  date: 2022-03-24
+  title: Combinator Parsing
+  
+small-step-semantics:
+  slug: small-step-semantics
+  date: 2022-03-29
+  title: Small-Step Semantics
+  
+unification:
+  slug: unification
+  date: 2022-03-31
+  title: Unification
+  
+hoare-semantics:
+  slug: hoare-semantics
+  date: 2022-04-05
+  title: Hoare Semantics
+
+loop-invariants:
+  slug: loop-invariants
+  date: 2022-04-07
+  title: Loop Invariants
+
+monotype-semantics:
+  slug: monotype-semantics
+  date: 2022-04-12
+  title: Monotype Semantics
+
+polytype-semantics:
+  slug: polytype-semantics
+  date: 2022-04-14
+  title: Polytype Semantics
+  
+prolog:
+  slug: prolog
+  date: 2022-04-19
+  title: Prolog
+  
+prologs-cut-operator:
+  slug: prologs-cut-operator
+  date: 2022-04-21
+  title: Prolog's Cut Operator
+  
+prolog-applications:
+  slug: prolog-applications
+  date: 2022-04-26
+  title: Prolog Applications
+
+variables:
+  slug: variables
+  date: 2022-04-28
+  title: Variables
+  
+macros:
+  slug: macros
+  date: 2022-05-03
+  title: Macros
+
+

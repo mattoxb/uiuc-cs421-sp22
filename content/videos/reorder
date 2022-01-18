@@ -1,0 +1,6 @@
+tag=1
+for i in $(cat order); do
+   sed -i "s/weight:/weight: $tag/" $i
+   echo $tag $i
+tag=$((tag+1))
+done

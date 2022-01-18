@@ -1,0 +1,17 @@
+
+{{ with $.Page.Params.links }}
+  <h2>Links</h2>
+  {{ range $cat := . }}
+  {{ with (index $cat "category") }}
+    <h3> {{ (index $cat "category") }} </h3>
+    <ul>
+        {{ range $link := (index $cat "links") }}
+          {{ if (index $link "display") }}
+          <li> <a href={{ (index $link "url") }}>{{ (index $link "title") }} </a>
+              {{ (index $link "desc") }}</li>
+          {{ end }}
+        {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+{{ end }}

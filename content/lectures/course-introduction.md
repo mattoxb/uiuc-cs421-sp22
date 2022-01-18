@@ -21,7 +21,6 @@ links:
         url: /handouts/euler-pogil.pdf
         display: true
       - title: Video Walkthrough
-        display: after
         url: https://mediaspace.illinois.edu/media/1_690kfeyl
 ---
 
