@@ -52,7 +52,7 @@ you use, and things you need to do once per MP.
 The first time you're accessing the CS 421 repository this semester, you will need to have a CS 421 repository set up for you.  This process is simple:
 
 1. If you don't have one already, create an account at [github.com](https://github.com).
-2. Visit this [magic repository creator](https://edu.cs.illinois.edu/create-ghe-repo/sp22-cs421/)
+2. Visit this [magic repository creator](https://edu.cs.illinois.edu/create-ghe-repo/sp22_cs421/)
 3. It will ask you to join the `illinois-cs-coursework` group.
 4. You will get a repository with a URL like `https://github.com/illinois-cs-coursework/sp22_cs421_NETID`, where
    `NETID` is your actual netid.
