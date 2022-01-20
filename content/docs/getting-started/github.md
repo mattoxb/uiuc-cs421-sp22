@@ -52,6 +52,8 @@ you use, and things you need to do once per MP.
 The first time you're accessing the CS 421 repository this semester, you will need to have a CS 421 repository set up for you.  This process is simple:
 
 1. If you don't have one already, create an account at [github.com](https://github.com).
+   1. Once you do this, you will need to [create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+   2. Next, you will need to [authorize the token for single sign on (SSO)](https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)
 2. Visit this [magic repository creator](https://edu.cs.illinois.edu/create-ghe-repo/sp22_cs421/)
 3. It will ask you to join the `illinois-cs-coursework` group.
 4. You will get a repository with a URL like `https://github.com/illinois-cs-coursework/sp22_cs421_NETID`, where
@@ -67,13 +69,22 @@ repository onto your computer.
 To clone your repository, run `git clone`:
 
 ``` bash
-git clone https://github.com/illios-cs-coursework/sp22_cs421_NETID.git cs421git
+git clone https://github.com/illinois-cs-coursework/sp22_cs421_NETID.git cs421git
 ```
 
 you can replace **cs421git** with whatever folder you want created.  For example, you may want to call your folder just "cs421" or "cs421work" or anything else.
 
 {{< callout note >}}
- On some systems, git (and other command line programs) will not display anything when you type your password. This is expected: type your password as normal, and then hit enter.
+ Github no longer allows password authentication.  You may get a weird message like this:
+
+```
+Cloning into 'sp22_cs421_NETID'...
+remote: The `illinois-cs-coursework' organization has enabled or enforced SAML SSO. To access
+remote: this repository, visit https://github.com/orgs/illinois-cs-coursework/sso?authorization_request=someverylongstringofletters
+remote: and try your request again.
+```
+
+Just follow the instructions.
 {{< /callout >}}
 
 Finally, move into the directory you just cloned:
@@ -86,7 +97,7 @@ cd cs421git
 To connect to the release repository, you need to add a remote:
 
 ``` bash
-git remote add release https://github-dev.cs.illinois.edu/sp22_cs421_.release.git
+git remote add https://github.com/illinois-cs-coursework/sp22_cs421_.release.git
 ```
 
 Note the extra period.  If we don't put that there, one day some poor student will get the netid `release` and all Java will break loose.
