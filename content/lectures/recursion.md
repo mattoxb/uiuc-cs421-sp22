@@ -20,10 +20,13 @@ links:
   - category: Activities
     links:
       - title: Recursion Activity Handout
+        display: true
         url: /handouts/recursion-pogil.pdf
       - title: Class Recording
+        display: true
         url: https://mediaspace.illinois.edu/media/t/1_3zxys7zr
       - title: REPL.it instance
+        display: true
         url: https://replit.com/@mattox/SharpTriangularOctal#Main.hs
   - category: Further Reading
     links:
