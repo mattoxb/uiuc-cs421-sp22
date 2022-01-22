@@ -36,7 +36,8 @@ time_format: '3:04 PM'
 
 # Site features
 
-highlight: false
+highlight: true
+highlight_languages: ['c++','haskell']
 math: true
 diagram: false
 privacy_pack: false
