@@ -17,12 +17,14 @@ links:
       - title: Tail Recursion
         display: true
         url: /videos/tail-recursion
-  - nocategory: Activities
+  - category: Activities
     links:
       - title: Recursion Activity Handout
         url: /handouts/recursion-pogil.pdf
-      - title: Activity Walkthrough (Spring 2021)
-        url: https://mediaspace.illinois.edu/media/1_vr93ex47
+      - title: Class Recording
+        url: https://mediaspace.illinois.edu/media/t/1_3zxys7zr
+      - title: REPL.it instance
+        url: https://replit.com/@mattox/SharpTriangularOctal#Main.hs
   - category: Further Reading
     links:
       - title: There and Back Again
