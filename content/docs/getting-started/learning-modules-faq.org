@@ -1,0 +1,62 @@
+---
+title: Learning Modules FAQ
+date: 2021-06-25
+draft: false
+menu: getting-started
+type: book
+weight: 3
+---
+
+* What is a learning module?
+
+A learning module is a collection of 3-5 related learning outcomes.  A learning outcome is a
+skill that we want to see you master.
+
+The activities and exams are each connected to one or more learning outcomes.
+When you complete an assessment you get credit for the corresponding outcome.
+Once you have completed all the outcomes for a learning module you have completed
+the learning module.
+
+The number of learning modules you complete determines your grade.
+
+* How do I turn in a learning module?  When are they due?
+
+You don't turn them in directly.  You will complete these as you do the homeworks and exams.
+* How can I keep track of which learning modules I need to do?
+
+We will keep a [[{{< ref "/docs/getting-started/learning-module-map" >}}][Learning Module Map]] for you to reference
+which assignments are tied to the learning modules.
+
+After each assignment comes due we will post a report in your repository indicating your progress.
+
+* What does the report look like?
+
+It will look something like this:
+
+Learning Module Report
+
+| Module                    | Outcome | Status   |
+| 1. Recursion              |         | COMPLETE |
+| 2. ADTs                   |         | PENDING  |
+|                           |     2.1 | COMPLETE |
+|                           |     2.2 | COMPLETE |
+|                           |     2.3 | PENDING  |
+|                           |     2.4 | PENDING  |
+| 3. Higher order functions |         | PENDING  |
+
+If a module is complete or unstarted, we will omit the objectives to save space.  In this report LM 1 is
+completed, LM 2 is half done, and LM 3 is not started.
+
+* How can I be sure I get everything I need for each learning module?
+
+Each time we release an assignment we will indicate which learning outcome(s) it fullfils.
+
+We guarantee that the assignments and exams will cover all of the learning modules.
+
+* I have to get a problem perfectly right to get credit on it.  That's so stressful!
+
+It doesn't have to be.  The homeworks allow you multiple submissions, and even the exam problems
+allow multiple attempts.  There are second-chance midterms as well.
+
+The final exam will repeat everything; if you have already fulfilled enough learning modules
+to get the grade you want, you don't have to take it.
