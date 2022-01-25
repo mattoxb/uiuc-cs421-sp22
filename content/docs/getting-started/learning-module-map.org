@@ -23,3 +23,8 @@ Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 
 |              | 3. Folding Recursion        | Activity 1            |
 |              | 4. Tail Recursion           | Exam 1                |
 |              | 5. Tail Recursion Advantage | Exam 1                |
+|--------------+-----------------------------+-----------------------|
+| 2. ADTs      | 1. Write datatype           | MP 1                  |
+|              | 2. Consume datatype         | Activity 2            |
+|              | 3. Transform datatype       | Exam 1                |
+|              | 4. Produce datatype         | MP 1                  |
