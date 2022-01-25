@@ -17,19 +17,19 @@ links:
       - title: Sum Types, Part 2
         display: true
         url: /videos/sum-types-pt2
-  - nocategory: Activitites
+  - category: Activitites
     links:
-      - title: TPS version
+      - title: Class Session (Jan 25, 2022)
         display: true
-        url: /handouts/adt-tps.pdf
-      - title: POGIL version
+        url: https://mediaspace.illinois.edu/media/t/1_fhgyr5no
+      - title: REPL.it session
         display: true
-        url: /handouts/adt-pogil.pdf
+        url: https://replit.com/@mattox/DearestFarflungKey#Main.hs
       - title: Algebraic Data Type Activity Walkthrough (Spring 2021)
-        display: true
+        display: false
         url: https://mediaspace.illinois.edu/media/1_tpfgtxfa
       - title: Algebraic Data Type Activity Walkthrough (Fall 2020)
-        display: true
+        display: false
         url: https://mediaspace.illinois.edu/media/1_e4ibuw6u
   - category: Further Reading
     links:
