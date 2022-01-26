@@ -31,7 +31,7 @@ foo x =
 bar x =
   let a = 30
       b = 40
-  in a + b + bar
+  in a + b + baz x
 baz x =
   let a = 50
       b = 60
@@ -101,7 +101,7 @@ foo 0 = 1
 foo n = foo (n-1)
 #+end_src
 
-The variables =c=, =d=, and =f= are in tail position.  The expressions =a>b=, =10+2=, and =n-1= are not in
+The variables =c=, =d=, and =f= are in tail position.  The expressions =a>b=, =10+20=, and =n-1= are not in
 tail position.  If =a>b= is true, and =c= has value 99, then the value of the whole =if= expression will be 99.
 
 Note that not every expression has subexpressions that are in tail position.
@@ -184,8 +184,8 @@ for passing in the initial value.  Here is what =tsum= would look like:
 
 #+begin_src haskell
 tsum xx = aux xx 0
-  where tsum []     a = a
-        tsum (x:xs) a = tsum xs (x+a)
+  where aux []     a = a
+        aux (x:xs) a = aux xs (x+a)
 #+end_src
 
 ** Problems
@@ -241,3 +241,7 @@ filter f xx = aux (reverse xx) [] -- We can reverse the input first if we like.
                          else aux xs a
 #+end_src
 #+html: </details>
+
+*** Thanks for Suggestions and Finding Typos
+- Ruben Serrano
+- Enguang Fan
