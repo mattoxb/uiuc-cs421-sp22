@@ -22,12 +22,10 @@ Here's what you need to do.
 
 - In lieu of in-class activities, we will form groups of remote students to complete
   activities together online, via Prairielearn.
-- You **must** get explicit approval from the instructor to take the class as a remote
-  student.  This is mainly so we have a list of who is doing so, and so we have you
+- You can assume you are approved to take the class remotely, but you need to sign up
+  [[https://forms.gle/sgVjjYVXmvFadN1V9][with this Google form]].
+  This is mainly so we have a list of who is doing so, and so we have you
   on record as agreeing to participate online with other students.
-  
-If this arrangement is okay, [email the instructor](mailto:mattox@illinois.edu) and
-tell him you agree with this and you will be on the list.
 
 ## Chicago City Scholars Students
 
