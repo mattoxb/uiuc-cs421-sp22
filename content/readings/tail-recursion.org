@@ -229,7 +229,7 @@ fact n = aux n 1
 filter f xx = aux xx []
   where aux []     a = reverse a  -- We need to reverse the list to preserve the original order
         aux (x:xs) a = if f x
-                         then aux xs (f:a)
+                         then aux xs (x:a)
                          else aux xs a
 
                          -- or --
@@ -237,7 +237,7 @@ filter f xx = aux xx []
 filter f xx = aux (reverse xx) [] -- We can reverse the input first if we like.
   where aux []     a = a
         aux (x:xs) a = if f x
-                         then aux xs (f:a)
+                         then aux xs (x:a)
                          else aux xs a
 #+end_src
 #+html: </details>
