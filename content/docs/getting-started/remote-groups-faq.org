@@ -1,0 +1,35 @@
+---
+linktitle: Remote FAQ
+weight: 8
+icon: code
+icon_pack: fas
+
+# Page metadata.
+title: Remote Groups FAQ
+date: "2020-08-24T00:00:00Z"
+type: book  # Do not modify.
+---
+
+** Is it okay if a remote-but-synchronous person is a group member with in-person students?
+
+Yes.  Just make sure you have a way to communicate with each other during the activity.
+
+** If I am normally in-person but need to be remote one day, what should I do?
+
+Just tell your group so they can coordinate, and connect via the zoom link during the
+class time.  You don't even need to tell the instructor!
+
+** What if I am normally remote but want to participate in class?
+
+If you have been synchronous before, that's fine.  Just sit with your group.
+If you are not part of a synchronous group, then you would need to find a group
+during class, so we prefer you dind't do that.  If you decide to do that anyway
+at least get approval fro your normal asynchronous group first.
+
+** What is the advantage of attending in person?
+
+1. You get to sit next to interesting people and communication will be faster.
+2. You can ask questions during class to the instructor.
+
+These two reasons are actually one of the more valuable components of your college education,
+and why coming to a university in person is better than just learning from a MOOC.
