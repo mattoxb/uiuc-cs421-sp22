@@ -1,5 +1,4 @@
 ---
-# Title, summary, and page position.
 linktitle: Remote Students
 weight: 7
 icon: code
@@ -16,23 +15,31 @@ conflicts with other required courses or due to an annoying amount of uncertaint
 regarding the ongoing Covid pandemic we will allow for this.  There is also the
 Chicago Scholars program.
 
-Here's what you need to do.
+## Remote Attendance
 
-## Time Conflict or Covid Concerns
+You should sign up with [[https://forms.gle/sgVjjYVXmvFadN1V9][this Google form]].
+There are two basic options for you.
 
-- In lieu of in-class activities, we will form groups of remote students to complete
-  activities together online, via Prairielearn.
-- You can assume you are approved to take the class remotely, but you need to sign up
-  [[https://forms.gle/sgVjjYVXmvFadN1V9][with this Google form]].
-  This is mainly so we have a list of who is doing so, and so we have you
-  on record as agreeing to participate online with other students.
+### Option 1 - Remote but synchronous
 
-## Chicago City Scholars Students
+- Join the class using [[https://illinois.zoom.us/j/89276958296?pwd=YlVSOEtkY0VBYXgwcE9oeGVwUDBCUT09][this zoom link]].
+- Connect with your group members over some other application (discord, weChat, irc) and work with them on the in-class activity.
+  Your group can be a mix of in-class and remote students.
+- If you don't have a group, the instructor will place you in one.
+
+### Option 2 - Remote and asynchronous
+
+Due to time conflicts you are unable to join synchronously.
+
+- Meet with your group at your own schedule and complete the activity together.  You will have 72 hours to do this.
+- If you don't have a group, the instructor will place you in one.
+
+### Chicago City Scholars Students
 
 You are kind of remote, kind of not remote.  We may need to adjust this to allow
 for scheduling changes or Covid changes, but for now the students in the Chicago
 City Scholars program will follow the in-person protocol, modified to account
 for there being one instructor visit per week.
 
-We already have a list of who is in this program, so there is no need to send an
-email.
+If you are unable to attend the Friday sessions, pick one of the two options above.
+
