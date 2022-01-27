@@ -1,0 +1,45 @@
+---
+linktitle: Remote Students
+weight: 7
+icon: code
+icon_pack: fas
+
+# Page metadata.
+title: Remote Students
+date: "2020-08-24T00:00:00Z"
+type: book  # Do not modify.
+---
+
+We do not encourage taking this class as a remote student, but due to time
+conflicts with other required courses or due to an annoying amount of uncertainty
+regarding the ongoing Covid pandemic we will allow for this.  There is also the
+Chicago Scholars program.
+
+** Remote Attendance
+
+You should sign up with [[https://forms.gle/sgVjjYVXmvFadN1V9][this Google form]].
+There are two basic options for you.
+
+*** Option 1 - Remote but synchronous
+
+- Join the class using [[https://illinois.zoom.us/j/89276958296?pwd=YlVSOEtkY0VBYXgwcE9oeGVwUDBCUT09][this zoom link]].
+- Connect with your group members over some other application (discord, weChat, irc) and work with them on the in-class activity.
+  Your group can be a mix of in-class and remote students.
+- If you don't have a group, the instructor will place you in one.
+
+*** Option 2 - Remote and asynchronous
+
+Due to time conflicts you are unable to join synchronously.
+
+- Meet with your group at your own schedule and complete the activity together.  You will have 72 hours to do this.
+- If you don't have a group, the instructor will place you in one.
+
+*** Chicago City Scholars Students
+
+You are kind of remote, kind of not remote.  We may need to adjust this to allow
+for scheduling changes or Covid changes, but for now the students in the Chicago
+City Scholars program will follow the in-person protocol, modified to account
+for there being one instructor visit per week.
+
+If you are unable to attend the Friday sessions, pick one of the two options above.
+
