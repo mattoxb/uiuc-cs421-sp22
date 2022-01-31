@@ -13,6 +13,9 @@ links:
       - title: Map and Foldr
         display: true
         url: /videos/map-and-foldr
+      - title: In Class Video
+        display: true
+        url: https://mediaspace.illinois.edu/media/t/1_akwpv6c4
   - category: Activities
     links:
       - title: TPS version
