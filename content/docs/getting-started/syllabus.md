@@ -135,8 +135,8 @@ if you do not do a satisfactory job on it you will lose a letter grade.
 ### Late Policy / Missing Exams
 
 Late submissions are built into PrairieLearn.  For machine problems, you will
-have one week to turn it it for 80% credit.  For activities, you will have until
-the end of the semester, also for 80% credit.
+have one week to turn it it for 95% credit.  (This would be enough to fulfull 
+the turn-in and LM requirements, but you would need full credit.)
 
 ### Code Efficiency
 

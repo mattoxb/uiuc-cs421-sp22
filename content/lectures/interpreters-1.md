@@ -11,11 +11,14 @@ links:
         url: /videos/interpreters-1
   - category: Activities
     links:
-      - title: Interpreter Activity
+      - title: Interpreter Activity (Legacy version; use Prairielearn for current version)
         display: true
         url: /handouts/interpreters-pogil.pdf
-      - title: Video Walkthrough
-        url: https://mediaspace.illinois.edu/media/1_wj41oi0t
+      - title: In Class Video (Sp 2022)
+        display: true
+        url: https://mediaspace.illinois.edu/media/t/1_de42m7b7 
+      - title: Code done in class on repl.it
+        url: https://replit.com/@mattox/interpreter-13#main.hs
 ---
 
 ## Synopsis
