@@ -18,17 +18,15 @@ You have two choices.
 1. If you still feel okay, we invited you to participate remotely according to
    option 1 of [[{{< relref "/docs/getting-started/remote-students" >}}][the remote student protocol]].
 2. If you do not feel okay, then this counts as an excused absense.  Notify the
-   instructor and your group.
-3. We can give you an extension on the activities, but if they are due more than
-   five days out we prefer you wait to see if you get better with enough time to
-   do what you need to do.  If there are three days or fewer, contact the instructor
-   to make arrangements.  He will ask you for an estimate of how much time you will need,
-   so please communicate that right away to save time.
+   instructor using this url:
+   https://forms.gle/ibmkT3vKaGFuoiyX8  Also notifiy your POGIL/in-class group!
+3. We have updated the policy to allow 3 weeks of extension; this should cover
+   most Covid situations, given that you are all vaccinated.
 
 ** Flu and other illnesses
 
 If you have a fever more than 100 degrees, or if you are coughing/sneezing, then
 you should stay home and not infect other people.  Follow the Covid protocol
-above in such cases.
+above in such cases.  Report your absence at https://forms.gle/ibmkT3vKaGFuoiyX8
 
 If your fever is less than that and are not coughing, then it is up to you.
