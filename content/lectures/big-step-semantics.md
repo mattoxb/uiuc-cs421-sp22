@@ -23,7 +23,8 @@ links:
       - title: Big Step Semantics
         display: true
         url: /videos/big-step-semantics
-      - title: Big Step Semantics Activity Walkthrough (Spring, 2021)
+      - title: Big Step Semantics Activity Walkthrough (Spring, 2021) 
+        display: true
         url: https://mediaspace.illinois.edu/media/1_3zubdfdv
       - title: Big Step Semantics Activity Walkthrough (Fall, 2020)
         url: https://mediaspace.illinois.edu/media/1_p2owdkq6

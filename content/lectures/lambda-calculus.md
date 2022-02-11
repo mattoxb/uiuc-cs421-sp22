@@ -30,6 +30,7 @@ links:
         display: true
         url: /handouts/lambda-calculus-pogil.pdf
       - title: Lambda Calculus Activity Walkthrough (Spring 2021)
+        display: true
         url: https://mediaspace.illinois.edu/media/1_kd9oi96p
       - title: Lambda Calculus Activity Walkthrough (Fall 2020)
         url: https://mediaspace.illinois.edu/media/1_aade0sd0
