@@ -15,6 +15,9 @@ links:
       - title: Closure Activity
         display: true
         url: /handouts/closures-pogil.pdf
+      - title: Video Walkthrough (Spring, 2022)
+        display: true
+        url: https://mediaspace.illinois.edu/media/t/1_x4giwi1r
       - title: Video Walkthrough (Spring, 2021)
         url: https://mediaspace.illinois.edu/media/1_plk0ub5j
       - title: Video Walkthrough (Fall, 2020)
