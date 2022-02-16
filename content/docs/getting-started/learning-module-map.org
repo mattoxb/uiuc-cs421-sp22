@@ -8,7 +8,9 @@ weight: 3
 ---
 
 Here is a listing of the learning modules and the assignments that fulfill them.
-We will update this whenever we release a new assignment.
+We will update this whenever we release a new assignment.  Each LM has 10 points to it;
+some assignments give more points than others, and some LMs have more that 10 points of opportunity
+(so you could miss something and sill have other opportunities).
 
 If two assignments are listed with a + between them then both are necessary to
 fulfill the objective.   If they are comma separated then you will have a choice.
@@ -16,15 +18,25 @@ fulfill the objective.   If they are comma separated then you will have a choice
 Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 will
 "second chance" Exam 2, and the Final will second chance all three midterms.
 
-| Module       | Outcome                     | Fulfilling Assignment |
-|--------------+-----------------------------+-----------------------|
-| 1. Recursion | 1. Integer Recursion        | Exam 1                |
-|              | 2. Mapping Recursion        | Activity 1            |
-|              | 3. Folding Recursion        | Activity 1            |
-|              | 4. Tail Recursion           | Exam 1                |
-|              | 5. Tail Recursion Advantage | Exam 1                |
-|--------------+-----------------------------+-----------------------|
-| 2. ADTs      | 1. Write datatype           | MP 1                  |
-|              | 2. Consume datatype         | Activity 2            |
-|              | 3. Transform datatype       | Exam 1                |
-|              | 4. Produce datatype         | MP 1                  |
+| Module                  | Outcome                                   | Points | Fulfilling Assignment |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 1. Recursion            | 1. Integer Recursion                      |      2 | Exam 1                |
+|                         | 2. Mapping Recursion                      |      2 | Activity 1            |
+|                         | 3. Folding Recursion                      |      2 | Activity 1            |
+|                         | 4. Tail Recursion                         |      2 | Exam 1                |
+|                         | 5. Tail Recursion Advantage               |      2 | Exam 1                |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 2. ADTs                 | 1. Write datatype                         |      2 | MP 1                  |
+|                         | 2. Consume datatype                       |      2 | Activity 2            |
+|                         | 3. Transform datatype                     |      2 | Exam 1                |
+|                         | 4. Produce datatype                       |      2 | MP 1                  |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 3. HOFs                 | 1. Writing HOFs                           |      3 | Exam 1                |
+|                         |                                           |      2 | Activity 3            |
+|                         | 2. Using HOFs                             |      5 | Exam 1                |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 4-5. Interpreters       |                                           |        | MP 2                  |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 6. Lambda calculus      | 1. Reduce a lambda calculus expression    |     10 | Exam 1                |
+|-------------------------+-------------------------------------------+--------+-----------------------|
+| 7. Evaluation Semantics | 1. Write a big step semantics proof tree. |     10 | Exam 1                |
