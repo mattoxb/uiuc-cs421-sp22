@@ -13,6 +13,9 @@ links:
       - title: CPS Transform
         display: true
         url: /videos/cps-transform
+      - title: Activity Walkthrough (Fall 2021)
+        display: true
+        url: https://mediaspace.illinois.edu/media/t/1_iq269ey3
       - title: Activity Walkthrough (Fall 2020)
         url: https://mediaspace.illinois.edu/media/1_mi4vbmzk
       - title: Activity Walkthrough (Spring 2021)
