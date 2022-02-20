@@ -13,8 +13,8 @@ main:
   - name: Lectures
     url: lectures/
     weight: 30
-  - name: Readings
-    url: readings/
+  - name: Textbook
+    url: textbook/
     weight: 40
   - name: Problems
     url: problems/

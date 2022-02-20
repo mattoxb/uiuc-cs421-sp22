@@ -82,3 +82,10 @@ related:
 
 
 refLinksErrorLevel: warning
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+

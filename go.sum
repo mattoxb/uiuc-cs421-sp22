@@ -2,6 +2,7 @@ github.com/mattoxb/wowchemy-shortcode-awsvideo v0.0.0-20220117211926-a8de8af0017
 github.com/mattoxb/wowchemy-shortcode-awsvideo v0.0.0-20220117211926-a8de8af00173/go.mod h1:guSfOSjwrOO+uXvL+TMMp1Y8rHSEZOCauPjjKlgF2OA=
 github.com/mattoxb/wowchemy-shortcode-uva v0.0.0-20210825155429-181dc3d5efdd h1:fbK3ixPgS3o+5BDKnUCXH/TAmyE15hF4WUkv7BHpwII=
 github.com/mattoxb/wowchemy-shortcode-uva v0.0.0-20210825155429-181dc3d5efdd/go.mod h1:8pv86WG48sk0gJ/MmooRBIMTE7UbRFT+cKwX60V6nK0=
+github.com/wowchemy/wowchemy-hugo-modules/v5 v5.4.0 h1:jWlAOA8e40owFc+tyHrQdRZGXQpxbWeml0vkhBftoHg=
 github.com/wowchemy/wowchemy-hugo-modules/v5 v5.4.0/go.mod h1:akNBhhT0UAOXSREplKkLe2wyHeo51qm6f+vqNkQkcmE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220113220115-439dfb3a4085 h1:Tw3FSnefkhEt9rhKy2bDm4a5KX+2AVACNNhFQVTG16E=
