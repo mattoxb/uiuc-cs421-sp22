@@ -14,6 +14,9 @@ links:
         url: https://mediaspace.illinois.edu/media/1_fkq7kdb9
       - title: Activity Walkthrough (Spring 2021)
         url: https://mediaspace.illinois.edu/media/1_bcdgrwen
+      - title: Activity Walkthrough (Spring 2022)
+        url: https://mediaspace.illinois.edu/media/t/1_g6sz5esn
+        display: true
   - category: Handouts
     links:
       - title: Monads Activity (TPS version)

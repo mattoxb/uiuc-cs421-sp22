@@ -13,20 +13,23 @@ links:
       - title: Type Classes
         display: true
         url: /videos/type-classes
-      - title: Functors and Applicative
+      - title: Functor and Applicative
         display: true
         url: /videos/functors-and-applicatives
       - title: Activity Walkthrough (Fall 2020)
         url: https://mediaspace.illinois.edu/media/1_dv30ngkn
       - title: Activity Walkthrough (Spring 2021)
         url: https://mediaspace.illinois.edu/media/1_nkpvx62x
+      - title: Activity Walkthrough (Sprint 2022)
+        url: https://mediaspace.illinois.edu/media/t/1_034nz7we
+        display: true
   - category: Further Reading
     links:
       - title: The Typeclassopedia
         display: true
         url: https://wiki.haskell.org/Typeclassopedia
         desc: Read this if you want a broader understanding of type classes.
-      - title: Variadic functions in Haskelll
+      - title: Variadic functions in Haskell
         display: true
         url: http://okmij.org/ftp/Haskell/polyvariadic.html
         desc: They used type classes to trick Haskell into allowing us to have functions with a variable number of parameters!

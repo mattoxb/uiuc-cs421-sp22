@@ -10,14 +10,6 @@ hidden:
         display: true
         url: /handouts/state-monad-pogil.pdf
 links:
-  - category: Handouts
-    links:
-      - title: State Monad Activity (POGIL Version)
-        display: true
-        url: /handouts/state-monad-tps.pdf
-      - title: State Monad Activity (POGIL Version)
-        display: true
-        url: /handouts/state-monad-pogil.pdf
   - category: Videos
     links:
       - title: The State Monad
@@ -26,8 +18,11 @@ links:
       - title: State Monad Example
         display: true
         url: /videos/state-monad-example
-      - title: Activity Walkthrough
+      - title: Activity Walkthrough (Spring 2021)
         url: https://mediaspace.illinois.edu/media/1_2axmmqxw
+      - title: Activity Walkthrough (Spring 2022)
+        url: https://mediaspace.illinois.edu/media/t/1_nsfovc21
+        display: false
 ---
 
 ## Synopsis
