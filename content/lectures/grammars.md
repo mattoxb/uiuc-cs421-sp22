@@ -16,6 +16,9 @@ links:
       - title: Follow Sets
         display: true
         url: /videos/follow-sets
+      - title: Activity Recording (Spring 2022)
+        url: https://mediaspace.illinois.edu/media/t/1_jiqf832d
+        display: true
   - category: Handouts
     links:
       - title: Grammars Activity (TPS version)
