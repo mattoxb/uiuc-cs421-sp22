@@ -22,7 +22,7 @@ links:
         url: https://mediaspace.illinois.edu/media/1_2axmmqxw
       - title: Activity Walkthrough (Spring 2022)
         url: https://mediaspace.illinois.edu/media/t/1_nsfovc21
-        display: false
+        display: true
 ---
 
 ## Synopsis
