@@ -2,7 +2,7 @@
 title = "Grading Details"
 author = ["Mattox Beckman"]
 draft = false
-type = "page"
+type = "book"
 +++
 
 ## Learning Modules and Outcomes {#learning-modules-and-outcomes}

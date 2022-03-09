@@ -6,7 +6,7 @@
 
 * Documentation
 :PROPERTIES:
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type page
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
 :EXPORT_HUGO_SECTION: docs/getting-started
 :END:
 

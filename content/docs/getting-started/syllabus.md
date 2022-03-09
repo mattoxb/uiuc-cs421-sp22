@@ -2,7 +2,7 @@
 title = "Syllabus"
 author = ["Mattox Beckman"]
 draft = false
-type = "page"
+type = "book"
 +++
 
 ## Location and Times {#location-and-times}
