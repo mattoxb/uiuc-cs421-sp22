@@ -25,7 +25,6 @@ Machine problems (MPs)
     -   Before the MP is due you can get full credit on it.
     -   There is a one-week extension period in which you can only get 95%. Thus, you must fully complete the MP for it to
         count.
-    -   You will be allowed to drop one MP.
 
 Exam Questions
 : Most exam questions involve coding or some kind of mathematical manipulation (like lambda calculus reductions).

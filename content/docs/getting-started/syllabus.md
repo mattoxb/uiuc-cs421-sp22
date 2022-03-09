@@ -140,14 +140,14 @@ We will determine your grade based on how many of the 20 learning modules and 6 
 
 | Grade | Learning Modules | MPs | Attendance |
 |-------|------------------|-----|------------|
-| A     | 18               | 6   | &gt;=80%   |
-| B     | 16               | 5   | &lt;80%    |
-| C     | 14               | 4   |            |
-| D     | 10               | 3   |            |
+| A     | 18               | 5   | &gt;=80%   |
+| B     | 16               | 4   | &lt;80%    |
+| C     | 14               | 3   |            |
+| D     | 10               | 2   |            |
 
 If you complete more MPs than are required for your grade, or enough learning modules for the next higher grade, we will
 give you a + grade.  E.g., if you did 16 learning modules but all 6 MPs, you would get a B+.  Similarly if you completed 18
-learning modules but only 5 MPs.
+learning modules but only 4 MPs.
 
 To get an A+, you must complete all 20 learning modules and all 6 MPs.
 

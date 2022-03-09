@@ -34,7 +34,6 @@ There are four kinds of assessments you will see.
   - Before the MP is due you can get full credit on it.
   - There is a one-week extension period in which you can only get 95%. Thus, you must fully complete the MP for it to
     count.
-  - You will be allowed to drop one MP.
 - Exam Questions :: Most exam questions involve coding or some kind of mathematical manipulation (like lambda calculus reductions).
   - The threshold for passing an exam question is 100%, except for proof trees.  These are passing at 95%.
   - If you don't get an exam question right, you will have another attempt on the following midterm (if there is one).
@@ -186,15 +185,15 @@ We will determine your grade based on how many of the 20 learning modules and 6 
 
  | Grade | Learning Modules | MPs | Attendance |
  |-------+------------------+-----+------------|
- | A     |               18 |   6 | >=80%      |
- | B     |               16 |   5 | <80%       |
- | C     |               14 |   4 |            |
- | D     |               10 |   3 |            |
+ | A     |               18 |   5 | >=80%      |
+ | B     |               16 |   4 | <80%       |
+ | C     |               14 |   3 |            |
+ | D     |               10 |   2 |            |
 
 
 If you complete more MPs than are required for your grade, or enough learning modules for the next higher grade, we will
 give you a + grade.  E.g., if you did 16 learning modules but all 6 MPs, you would get a B+.  Similarly if you completed 18
-learning modules but only 5 MPs.
+learning modules but only 4 MPs.
 
 To get an A+, you must complete all 20 learning modules and all 6 MPs.
 
