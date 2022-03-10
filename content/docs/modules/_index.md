@@ -3,7 +3,7 @@ title: Learning Modules
 linktitle: 
 date: 2021-06-25
 draft: false
-icon: code
+icon: book
 icon_pack: fas
 type: book
 weight: 2

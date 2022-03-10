@@ -1,9 +1,10 @@
----
-title: Course Documentation
-type: book  # Do not modify.
-toc: false
----
++++
+title = "Documentation"
+author = ["Mattox Beckman"]
+draft = false
+type = "book"
++++
 
- - The Getting Started section has things like the syllabus and instructions for
- setting up your computer to use Haskell.
- - The [Modules]({{< relref "/docs/modules" >}}) section lists the 20 learning modules.
+-   [Getting Started](/docs/getting-started)
+-   [Policies](/docs/policies)
+-   [Learning Modules](/docs/modules)
