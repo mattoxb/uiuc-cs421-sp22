@@ -343,6 +343,35 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_HUGO_SECTION: lectures
 :END:
 
+** Regular Languages
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: regular-languages
+:END:
+
+Regular languages and languages that a computer can recognize
+with only a finite amount of memory and no backtracking.
+They correspond to right linear grammars.
+
+
+***  Videos
+
+- [[/videos/regular-languages][Regular Languages]]
+- [[/videos/right-linear-grammars][Right Linear Grammars]]
+- [[https://mediaspace.illinois.edu/media/t/1_1ca3c40u][Spring 2022 Class Session]]
+#  - title: Activity Walkthrough (Fall 2020)
+#    url: https://mediaspace.illinois.edu/media/1_kuo1voln
+#  - title: Activity Walkthrough (Spring 2021)
+#    url: https://mediaspace.illinois.edu/media/1_es2ma6jp
+
+*** Further Reading
+
+- [[/handouts/regex-crossword.pdf][Regular Expression Crossword Puzzle]]
+- [[https://swtch.com/~rsc/regexp/regexp1.html][Regular Expression Matching Can be Simple and Fast]]
+  Surprisingly, many programming languages do regex matching wrong.
+
+
+
 ** LL Parsing
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
@@ -357,6 +386,7 @@ with the language you had in mind!
 
 - [[/videos/ll-parsing][LL Parsing]]
 - [[/videos/fixing-non-ll-grammars][Fixing Non-LL Grammars]]
+- [[https://mediaspace.illinois.edu/media/t/1_a1af9qv3][SPring 2022 Class Session]]
 
 *** Further Reading
 

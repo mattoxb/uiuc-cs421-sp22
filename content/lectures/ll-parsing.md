@@ -14,6 +14,7 @@ with the language you had in mind!
 
 -   [LL Parsing](/videos/ll-parsing)
 -   [Fixing Non-LL Grammars](/videos/fixing-non-ll-grammars)
+-   [SPring 2022 Class Session](https://mediaspace.illinois.edu/media/t/1_a1af9qv3)
 
 
 ## Further Reading {#further-reading}
