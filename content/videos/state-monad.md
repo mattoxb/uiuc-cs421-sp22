@@ -39,8 +39,8 @@ The first thing we need to do is decide how to represent a
 stateful computation. A stateful computation starts with an
 input state, and returns some kind of result, possibly
 modifying that state. We can represent that as a function of
-type $a \rightarrow (s,a)$, where $a$ is the state type and
-$s$ is the result type.
+type $s \rightarrow (a,s)$, where $s$ is the state type and
+$a$ is the result type.
 
 As an example, check out this `ex1` function. It takes a
 state $s$ and returns a computation $s*2$ as a result, and
