@@ -16,8 +16,7 @@ a natural syntax.
 
 ## Videos {#videos}
 
--   [Combinator Parsing](/vidoes/combinator-parsing)
--   [Combinator Parsing Activity](/videos/combinator-parsing-activity)  This is a walkthrough of an older activity, linked below.
+-   [Combinator Parsing](/videos/combinator-parsing)
 
 
 ## Further Reading {#further-reading}

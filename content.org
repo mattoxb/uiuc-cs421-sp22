@@ -449,7 +449,7 @@ a natural syntax.
 
 ***  Videos
 
-- [[/vidoes/combinator-parsing][Combinator Parsing]]
+- [[/videos/combinator-parsing][Combinator Parsing]]
 # - [[/videos/combinator-parsing-activity][Combinator Parsing Activity]]  This is a walkthrough of an older activity, linked below.
 
 *** Further Reading
