@@ -343,6 +343,18 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_HUGO_SECTION: lectures
 :END:
 
+** Lecture Template :noexport:
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: something
+:END:
+
+
+***  Videos
+
+*** Further Reading
+
+
 ** Regular Languages
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
@@ -398,8 +410,52 @@ with the language you had in mind!
 # - title: LL Activity (Fall 2020)
 #   url: https://mediaspace.illinois.edu/media/1_4308d5p1
 
+** LR Parsing
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: lr-parsing
+:ID:       e65db97a-5831-419f-b47a-c97df2e8ae31
+:END:
+
+LR parsers have been the industry standard for quite some time.  The gnu C compiler
+even comes with an LR parser generator (called `bison`, a take-off of an older utility
+called `yacc`.  Computer people like puns.).  These parsers are fast and capable, but
+to be effective using them you really need to understand how they work.
 
 
+***  Videos
+
+- [[/videos/lr-parsing][LR Parsing]]
+- [[https://mediaspace.illinois.edu/media/t/1_qv5ayqow][Class Session (Spring 2022)]]
+
+*** Further Reading
+
+- [[/handouts/lr-parsing-tables.pdf][LR Parsing Tabels]]
+
+
+** Combinator Parsing
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: combinator-parsing
+:END:
+
+We have seen a few different kinds of parsers to this point.  They all work by constructing
+state machines to handle the parsing.  A new class of parsers has started to become popular
+lately.  Combinator parsers use functions to represent parsers, and they can be composed together
+to make more sophisticated parsers.
+
+We will show how to build one of these from the ground up, and make use of monads to give us
+a natural syntax.
+
+***  Videos
+
+- [[/vidoes/combinator-parsing][Combinator Parsing]]
+# - [[/videos/combinator-parsing-activity][Combinator Parsing Activity]]  This is a walkthrough of an older activity, linked below.
+
+*** Further Reading
+- [[/handouts/combinator-parsing-pogil.pdf][Old Combinator Parsing Activity]]
+- [[http://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf][Monadic Parser Combinators (Graham Hutton)]]
+  This paper is a tutorial about monads and parser combinators. It uses a language called Gopher, a precursor to Haskell.
 
 * Videos
 :PROPERTIES:
