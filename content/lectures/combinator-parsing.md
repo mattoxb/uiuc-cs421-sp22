@@ -17,6 +17,7 @@ a natural syntax.
 ## Videos {#videos}
 
 -   [Combinator Parsing](/videos/combinator-parsing)
+-   [Activity Walkthrough (Spring 2022)](https://mediaspace.illinois.edu/media/t/1_ir3m0ngw)
 
 
 ## Further Reading {#further-reading}

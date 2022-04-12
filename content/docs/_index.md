@@ -8,4 +8,3 @@ type = "book"
 -   [Getting Started](/docs/getting-started)
 -   [Policies](/docs/policies)
 -   [Learning Modules](/docs/modules)
--   [Project](/docs/getting-started/project)

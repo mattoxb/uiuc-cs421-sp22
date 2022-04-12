@@ -69,10 +69,10 @@ Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 
 |                               | 13.2 – Given a description of a pattern, show an equivalent regular expression.                      |      4 | Activity 13 - Regular Language |
 |                               | 13.3 – Indicate the limits of a regular expression (MC)                                              |      2 | Exam 2-q11 (80%)               |
 |-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 14. LL Grammars               | 1. Given an LL grammar, give the Haskell implementation                                              |      4 | Exam 2-q12                     |
+| 14. LL Grammars               | 1. Given an LL grammar, give the Haskell implementation                                              |      4 | Exam 2-q13                     |
 |                               |                                                                                                      |        | *or* Exam 3                    |
 |                               |                                                                                                      |      1 | Activity 14 - LL               |
-|                               | 2. Convert a non-LL grammar to LL                                                                    |      4 | Exam 2                         |
+|                               | 2. Convert a non-LL grammar to LL                                                                    |      4 | Exam 2-q12                       |
 |                               |                                                                                                      |        | *or* Exam 3                    |
 |                               |                                                                                                      |      1 | Activity 14 - LL               |
 |-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
