@@ -18,66 +18,91 @@ fulfill the objective.   If they are comma separated then you will have a choice
 Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 will
 "second chance" Exam 2, and the Final will second chance all three midterms.
 
-| Module                        | Outcome                                                                                              | Points | Fulfilling Assignment          |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 1. Recursion                  | 1. Integer Recursion                                                                                 |      2 | Exam 1-q1                      |
-|                               | 2. Mapping Recursion                                                                                 |      2 | Activity 1 - Recursion         |
-|                               | 3. Folding Recursion                                                                                 |      2 | Activity 1 - Recursion         |
-|                               | 4. Tail Recursion                                                                                    |      2 | Exam 1-q2                      |
-|                               | 5. Tail Recursion Advantage                                                                          |      2 | Exam 1-q3                      |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 2. ADTs                       | 1. Write datatype                                                                                    |      2 | MP 1 - Haskell                 |
-|                               | 2. Consume datatype                                                                                  |      2 | Activity 2 - ADTs              |
-|                               | 3. Transform datatype                                                                                |      3 | Exam 1-q4                      |
-|                               | 4. Produce datatype                                                                                  |      3 | MP 1 - Haskell                 |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 3. HOFs                       | 1. Writing HOFs                                                                                      |      3 | Exam 1-q5                      |
-|                               |                                                                                                      |      2 | Activity 3 - Fixpoint          |
-|                               | 2. Using HOFs                                                                                        |      5 | Exam 1-q6                      |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 4. Interpreters (Expressions) | 1. Write a datatype for eval                                                                         |      2 | MP 2 - Interpreter             |
-|                               | 2. Write an operator lifting function                                                                |      4 | MP 2 - Interpreter             |
-|                               | 3. Write an eval clause from semantics                                                               |      4 | MP 2 - Interpreter             |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 5. Interpreters (Functions)   | 1. Use eval to create a closure                                                                      |      4 | MP 2 - Interpreter             |
-|                               | 2. Use eval to apply a function                                                                      |      4 | MP 2 - Interpreter             |
-|                               | 3. Show why closures need an environment                                                             |      2 | Exam 2-q5  (80%)               |
-|                               | 4. Select difference between procedure and function                                                  |      2 | Exam 2-q4  (80%)               |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 6. Lambda calculus            | 1. Reduce a lambda calculus expression                                                               |     10 | Exam 1-q7                      |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 7. Evaluation Semantics       | 1. Write a big step semantics proof tree.                                                            |      5 | Exam 1-q8                      |
-|                               | 2. Write a small step semantics proof.                                                               |      5 | Exam 3                         |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 10. Continuations             | 1. Compare Tail Recursion and Continuations                                                          |      1 | Exam 2-q2 (80%)                |
-|                               |                                                                                                      |      1 | Exam 2-q3 (80%)                |
-|                               | 2. Convert/write a function to CPS                                                                   |      8 | Exam 2-q1                      |
-|                               | 3. Use Continuations to control program flow                                                         |      4 | Activity 8 - CPS               |
-|                               |                                                                                                      |        | *or* MP 3 - CPS                |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 11. Type Classes and Monads   | 1. Implement the Eq or Ord type class for a given type.                                              |      2 | Activity 9 - Typeclass         |
-|                               | 2. Implement a Functor type class for a given type.                                                  |      2 | Exam 2-q6                      |
-|                               | 3. Implement an Applicative type class for a given type.                                             |      2 | Exam 2-q6                      |
-|                               | 4. Implement a Monad type class for a given type.                                                    |      4 | Exam 2-q7                      |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 12. Grammars                  | 1. Given a grammar, show that it is ambiguous by giving an expression and two different parse trees. |      1 | Activity 12 - Grammar          |
-|                               |                                                                                                      |      4 | Exam 2-q8                      |
-|                               | 2. Given a grammar, determine the FIRST and FOLLOW sets of its non-terminal symbols.                 |      1 | Activity 12 - Grammar          |
-|                               |                                                                                                      |      4 | Exam 2-q9 (80%)                |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 13. Regular Languages         | 13.1 – Given a regular expression, show an equivalent right-linear grammar.                          |      4 | Exam 2-q10                     |
-|                               | 13.2 – Given a description of a pattern, show an equivalent regular expression.                      |      4 | Activity 13 - Regular Language |
-|                               | 13.3 – Indicate the limits of a regular expression (MC)                                              |      2 | Exam 2-q11 (80%)               |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 14. LL Grammars               | 1. Given an LL grammar, give the Haskell implementation                                              |      4 | Exam 2-q13                     |
-|                               |                                                                                                      |        | *or* Exam 3                    |
-|                               |                                                                                                      |      1 | Activity 14 - LL               |
-|                               | 2. Convert a non-LL grammar to LL                                                                    |      4 | Exam 2-q12                       |
-|                               |                                                                                                      |        | *or* Exam 3                    |
-|                               |                                                                                                      |      1 | Activity 14 - LL               |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 15. LR Parsing                | 1. Identity Location of Shift/Reduce Conflict                                                        |      3 | Exam 3                         |
-|                               | 2. Identity Significance of Shift/Reduce Conflict                                                    |      2 | Exam 3                         |
-|                               | 3. Produce LR Item Sets and Automata                                                                 |      2 | Activity 15 - LR (95%)         |
-|                               |                                                                                                      |      3 | Exam 3                         |
-|-------------------------------+------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| Module                        | Outcome                                                                                                | Points | Fulfilling Assignment          |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 1. Recursion                  | 1. Integer Recursion                                                                                   |      2 | Exam 1-q1                      |
+|                               | 2. Mapping Recursion                                                                                   |      2 | Activity 1 - Recursion         |
+|                               | 3. Folding Recursion                                                                                   |      2 | Activity 1 - Recursion         |
+|                               | 4. Tail Recursion                                                                                      |      2 | Exam 1-q2                      |
+|                               | 5. Tail Recursion Advantage                                                                            |      2 | Exam 1-q3                      |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 2. ADTs                       | 1. Write datatype                                                                                      |      2 | MP 1 - Haskell                 |
+|                               | 2. Consume datatype                                                                                    |      2 | Activity 2 - ADTs              |
+|                               | 3. Transform datatype                                                                                  |      3 | Exam 1-q4                      |
+|                               | 4. Produce datatype                                                                                    |      3 | MP 1 - Haskell                 |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 3. HOFs                       | 1. Writing HOFs                                                                                        |      3 | Exam 1-q5                      |
+|                               |                                                                                                        |      2 | Activity 3 - Fixpoint          |
+|                               | 2. Using HOFs                                                                                          |      5 | Exam 1-q6                      |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 4. Interpreters (Expressions) | 1. Write a datatype for eval                                                                           |      2 | MP 2 - Interpreter             |
+|                               | 2. Write an operator lifting function                                                                  |      4 | MP 2 - Interpreter             |
+|                               | 3. Write an eval clause from semantics                                                                 |      4 | MP 2 - Interpreter             |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 5. Interpreters (Functions)   | 1. Use eval to create a closure                                                                        |      4 | MP 2 - Interpreter             |
+|                               | 2. Use eval to apply a function                                                                        |      4 | MP 2 - Interpreter             |
+|                               | 3. Show why closures need an environment                                                               |      2 | Exam 2-q5  (80%)               |
+|                               | 4. Select difference between procedure and function                                                    |      2 | Exam 2-q4  (80%)               |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 6. Lambda calculus            | 1. Reduce a lambda calculus expression                                                                 |     10 | Exam 1-q7                      |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 7. Evaluation Semantics       | 1. Write a big step semantics proof tree.                                                              |      5 | Exam 1-q8                      |
+|                               | 2. Write a small step semantics proof.                                                                 |      5 | Exam 3                         |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 8. Typing Semantics           | 1. Write a monotype proof tree                                                                         |      5 | Exam 3                         |
+|                               | 2. Write a polytype proof tree                                                                         |      5 | Activity 20 - Types            |
+|                               | 3. Implement a Type Inferencer                                                                         |      5 | MP 6                           |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 9. Hoare Semantics            | Canceled                                                                                               |        |                                |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 10. Continuations             | 1. Compare Tail Recursion and Continuations                                                            |      1 | Exam 2-q2 (80%)                |
+|                               |                                                                                                        |      1 | Exam 2-q3 (80%)                |
+|                               | 2. Convert/write a function to CPS                                                                     |      8 | Exam 2-q1                      |
+|                               | 3. Use Continuations to control program flow                                                           |      4 | Activity 8 - CPS               |
+|                               |                                                                                                        |        | *or* MP 3 - CPS                |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 11. Type Classes and Monads   | 1. Implement the Eq or Ord type class for a given type.                                                |      2 | Activity 9 - Typeclass         |
+|                               | 2. Implement a Functor type class for a given type.                                                    |      2 | Exam 2-q6                      |
+|                               | 3. Implement an Applicative type class for a given type.                                               |      2 | Exam 2-q6                      |
+|                               | 4. Implement a Monad type class for a given type.                                                      |      4 | Exam 2-q7                      |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 12. Grammars                  | 1. Given a grammar, show that it is ambiguous by giving an expression and two different parse trees.   |      1 | Activity 12 - Grammar          |
+|                               |                                                                                                        |      4 | Exam 2-q8                      |
+|                               | 2. Given a grammar, determine the FIRST and FOLLOW sets of its non-terminal symbols.                   |      1 | Activity 12 - Grammar          |
+|                               |                                                                                                        |      4 | Exam 2-q9 (80%)                |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 13. Regular Languages         | 13.1 – Given a regular expression, show an equivalent right-linear grammar.                            |      4 | Exam 2-q10                     |
+|                               | 13.2 – Given a description of a pattern, show an equivalent regular expression.                        |      4 | Activity 13 - Regular Language |
+|                               | 13.3 – Indicate the limits of a regular expression (MC)                                                |      2 | Exam 2-q11 (80%)               |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 14. LL Grammars               | 1. Given an LL grammar, give the Haskell implementation                                                |      4 | Exam 2-q13                     |
+|                               |                                                                                                        |        | *or* Exam 3                    |
+|                               |                                                                                                        |      1 | Activity 14 - LL               |
+|                               | 2. Convert a non-LL grammar to LL                                                                      |      4 | Exam 2-q12                     |
+|                               |                                                                                                        |        | *or* Exam 3                    |
+|                               |                                                                                                        |      1 | Activity 14 - LL               |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 15. LR Parsing                | 1. Identity Location of Shift/Reduce Conflict                                                          |      3 | Exam 3                         |
+|                               | 2. Identity Significance of Shift/Reduce Conflict                                                      |      2 | Exam 3                         |
+|                               | 3. Produce LR Item Sets and Automata                                                                   |      2 | Activity 15 - LR (95%)         |
+|                               |                                                                                                        |      3 | Exam 3                         |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 16. Unification               | 1. Identify four unification operations                                                                |      2 | Activity 18 - Unification      |
+|                               | 2. Identify unification steps                                                                          |      8 | Exam 3                         |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 17. State and Objects         | Canceled                                                                                               |        |                                |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 18. Prolog                    | 1. Write a Prolog predicate that processes a list.                                                     |      2 | Activity 21 - Prolog           |
+|                               |                                                                                                        |      2 | Final                          |
+|                               | 2. Write a Prolog predicate that searches a graph-like structure.                                      |      2 | Activity 21 - Prolog           |
+|                               |                                                                                                        |      2 | Final                          |
+|                               | 3. Show how to use the cut operator to limit unwanted backtracking.                                    |      2 | Final                          |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 19. Variables                 | 1. Identify the four properties of variables and the effect of binding them statically or dynamically. |      2 | Activity 22 - Variables        |
+|                               |                                                                                                        |      3 | Final                          |
+|                               | 2. Show the effect of different parameter passing styles on a block of code.                           |      2 | Activity 22 - Variables        |
+|                               |                                                                                                        |      3 | Final                          |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
+| 20. Metaprogramming           | 1. Write a program that writes a program                                                               |      5 | Activity 23 - Macros           |
+|                               | 2. Implement an interpreter with macros                                                                |      5 | MP 5                           |
+|-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
