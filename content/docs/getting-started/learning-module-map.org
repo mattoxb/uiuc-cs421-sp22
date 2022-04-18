@@ -92,16 +92,12 @@ Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 
 |-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
 | 17. State and Objects         | Canceled                                                                                               |        |                                |
 |-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 18. Prolog                    | 1. Write a Prolog predicate that processes a list.                                                     |      2 | Activity 21 - Prolog           |
-|                               |                                                                                                        |      2 | Final                          |
-|                               | 2. Write a Prolog predicate that searches a graph-like structure.                                      |      2 | Activity 21 - Prolog           |
-|                               |                                                                                                        |      2 | Final                          |
-|                               | 3. Show how to use the cut operator to limit unwanted backtracking.                                    |      2 | Final                          |
+| 18. Prolog                    | 1. Write a Prolog predicate that processes a list.                                                     |      4 | Activity 21 - Prolog           |
+|                               | 2. Write a Prolog predicate that searches a graph-like structure.                                      |      4 | Activity 21 - Prolog           |
+|                               | 3. Show how to use the cut operator to limit unwanted backtracking.                                    |      2 | Activity 21 - Prolog           |
 |-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
-| 19. Variables                 | 1. Identify the four properties of variables and the effect of binding them statically or dynamically. |      2 | Activity 22 - Variables        |
-|                               |                                                                                                        |      3 | Final                          |
-|                               | 2. Show the effect of different parameter passing styles on a block of code.                           |      2 | Activity 22 - Variables        |
-|                               |                                                                                                        |      3 | Final                          |
+| 19. Variables                 | 1. Identify the four properties of variables and the effect of binding them statically or dynamically. |      5 | Activity 22 - Variables        |
+|                               | 2. Show the effect of different parameter passing styles on a block of code.                           |      5 | Activity 22 - Variables        |
 |-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
 | 20. Metaprogramming           | 1. Write a program that writes a program                                                               |      5 | Activity 23 - Macros           |
 |                               | 2. Implement an interpreter with macros                                                                |      5 | MP 5                           |
