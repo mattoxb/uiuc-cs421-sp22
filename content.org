@@ -539,10 +539,52 @@ semantics helps us understand the conditions under which a program will give us 
 *** Videos
 
       - [[/videos/hoare-semantics][Hoare Semantics]]
-      - [[][Class Session (Spring 2022)]]
+      - [[https://mediaspace.illinois.edu/media/t/1_2lxijk7p][Class Session (Spring 2022)]]
 #        url: https://mediaspace.illinois.edu/media/t/1_mmsrj63i  Spring 2021
 *** Further Reading
 - [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD264.html][EWD 264 /On Understanding Programs/]]
+
+**  Monotype Semantics
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: monotype-semantics
+:END:
+
+This is the first of a two part series on typing semantics.  Semantics can do
+more than just discovering the value of a program or expression; we can use
+semantics to describe other properties of programs as well.  In this case,
+we are interested in the types that expressions can have.
+
+In this lecture we will discuss *monotype* semantics; where expressions can
+have only one ground type.
+
+*** Videos
+
+- [[/videos/monotype-semantics][Monotype Semantics]]
+- [[https://mediaspace.illinois.edu/media/t/1_vyzrs5s7][Class Session (Spring 2022)]]
+#   - title: Class Session (Spring 2021)
+#     url: https://mediaspace.illinois.edu/media/t/1_clye3wel
+#   - title: Monotype Activity Walkthrough (Fall 2020)
+#     url: /videos/monotype-activity
+
+
+** Polytype Semantics
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: polytype-semantics
+:END:
+
+This is a continuation from the last lecture.  Now we want to
+be able to give types for functions like =id :: a -> a=.
+
+*** Videos
+
+- [[/videos/polytype-semantics][Polytype Semantics]]
+- [[https://mediaspace.illinois.edu/media/t/1_05pr1mlq][CLass Session (Spring 2022)]]
+#  - title: Class Session (Spring 2021)
+#    url: https://mediaspace.illinois.edu/media/t/1_6d5483by
+#  - title: Polytype Activity Walkthrough
+#    url: /videos/polytype-activity
 
 * Videos
 :PROPERTIES:

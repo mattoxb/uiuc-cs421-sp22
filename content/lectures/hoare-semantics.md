@@ -12,7 +12,7 @@ semantics helps us understand the conditions under which a program will give us 
 ## Videos {#videos}
 
 -   [Hoare Semantics](/videos/hoare-semantics)
--   [[][Class Session (Spring 2022)]]
+-   [Class Session (Spring 2022)](https://mediaspace.illinois.edu/media/t/1_2lxijk7p)
 
 
 ## Further Reading {#further-reading}
