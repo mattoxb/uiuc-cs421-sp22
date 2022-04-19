@@ -13,4 +13,4 @@ an entire programming language that uses unification to drive computation.
 ## Videos {#videos}
 
 -   [Unification](/videos/unification)
--   [Activity Walkthrough (Spring 2022)](https://mediaspace.illinois.edu/media/t/1_b8wr409)
+-   [Activity Walkthrough (Spring 2022)](https://mediaspace.illinois.edu/media/t/1_b8wr409j)
