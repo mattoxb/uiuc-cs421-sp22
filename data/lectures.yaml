@@ -119,8 +119,8 @@ prolog:
   date: 2022-04-19
   title: Prolog
   
-prologs-cut-operator:
-  slug: prologs-cut-operator
+prolog-cut:
+  slug: prolog-cut
   date: 2022-04-21
   title: Prolog's Cut Operator
   
