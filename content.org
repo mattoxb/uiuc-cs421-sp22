@@ -73,6 +73,12 @@ embedded systems.  Scheme has a language construct that allows you to *program t
 You can live a long and happy programmer's life only knowing Python or Javascript, but then you would never even be
 aware of some of the other options you have.
 
+* Old Videos :noexprot:
+
+      - title: Prolog Activity (Spring 2020)
+        url: /videos/prolog-activity
+      - title: In class session (Spring 2021)
+        url: https://mediaspace.illinois.edu/media/t/1_bxljf5i6
 
 * Policies
 :PROPERTIES:
@@ -585,6 +591,50 @@ be able to give types for functions like =id :: a -> a=.
 #    url: https://mediaspace.illinois.edu/media/t/1_6d5483by
 #  - title: Polytype Activity Walkthrough
 #    url: /videos/polytype-activity
+
+** Prolog
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: prolog
+:END:
+
+One of the strangest languages we will see in this course is <Sc>Prolog</Sc>.  It is
+incredibly useful for solving certain kinds of problems, so you should be
+familiar with it in case you meet such problems in the future.
+
+*** Videos
+- [[/videos/prolog][Prolog]]
+- [[https://mediaspace.illinois.edu/media/t/1_hexswq1d][Class Session (Spring 2022)]
+
+** Prolog Cut
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: prolog-cut
+:END:
+
+One problem with <Sc>Prolog</Sc> is that it can try too many things to satisfy a
+set of constraints.  The Cut Operator eliminates some of the search
+possibilities by committing a search to whatever decisions have already been
+made.  It can also prevent the destruction of innocent telescopes.
+
+***  Videos
+- [[/videos/prolog-cut][Prolog's Cut Operator]]
+- [[https://mediaspace.illinois.edu/media/t/1_14r80n16][Class Session (Spring 2022)]]
+
+** Variables and Parameters
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type book
+:EXPORT_FILE_NAME: variables
+:END:
+
+You think you know what a variable is, don't you?  They can be very complicated, actually.  Variables have many
+different attributes.  These attributes can become *bound* to the variable at different times.  We will talk about
+binding times, and the four properties that variables must have.
+
+*** Videos
+- [[/videos/variables][Variables]]
+- [[/videos/parameters][Parameters]]
+- [[https://mediaspace.illinois.edu/media/t/1_zopjq4ne][Class Session (Spring 2022)]]
 
 * Videos
 :PROPERTIES:
