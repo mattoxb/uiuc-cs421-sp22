@@ -58,6 +58,7 @@ Second chance exams are not listed.  Exam 2 will "second chance" Exam 1, Exam 3 
 | 10. Continuations             | 1. Compare Tail Recursion and Continuations                                                            |      1 | Exam 2-q2 (80%)                |
 |                               |                                                                                                        |      1 | Exam 2-q3 (80%)                |
 |                               | 2. Convert/write a function to CPS                                                                     |      8 | Exam 2-q1                      |
+|                               |                                                                                                        |      4 | MP 3 - CPS                     |
 |                               | 3. Use Continuations to control program flow                                                           |      4 | Activity 8 - CPS               |
 |                               |                                                                                                        |        | *or* MP 3 - CPS                |
 |-------------------------------+--------------------------------------------------------------------------------------------------------+--------+--------------------------------|
