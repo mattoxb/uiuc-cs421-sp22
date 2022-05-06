@@ -10,6 +10,9 @@ links:
        - title: Macros
          url: /videos/macros
          display: true
+       - title: Class Session (Spring 2022)
+         url: https://mediaspace.illinois.edu/media/t/1_22bqyv3x
+         display: true
   - category: Handouts
     links:
        - title: Macros Activity (POGIL version)
